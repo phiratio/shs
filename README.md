@@ -1,0 +1,2 @@
+# shs
+Shell configuration settings
